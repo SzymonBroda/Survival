@@ -5,5 +5,6 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	cout<<"Welcome to Survival";
+	cout << "CHANGE";
 	return 0;
 }
