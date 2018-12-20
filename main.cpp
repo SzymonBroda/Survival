@@ -1,10 +1,16 @@
 #include <iostream>
+#include "Classes.h"
 using namespace std;
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main(int argc, char** argv) {
-	cout<<"Welcome to Survival";
-	cout << "CHANGE";
+
+int main() 
+{
+
+	Point p1;
+	Map m1();
+	
+	cout << p1.y << endl;
+	
 	return 0;
 }
